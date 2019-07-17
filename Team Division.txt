@@ -16,5 +16,5 @@ Leader: Utkarsh Jain
 Task : Professor Form and Merging
 
 Team 4:
-Member : Piyush Gupta, Vineet Mallick
+Member : Piyush Gupta, Vineet Malik
 Task : Timetable Generation and other backend functions

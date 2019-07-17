@@ -22,7 +22,7 @@ Meeting 1:
 
 Date:2 March
 
-Members Present: Utkarsh Jain,Hardik Katyal,Vineet Mallick,Hansraj Patel 
+Members Present: Utkarsh Jain,Hardik Katyal,Vineet Malik,Hansraj Patel 
 
 Agenda: Database Structure
 
@@ -30,7 +30,7 @@ Meeting 2:
 
 Date:4 March
 
-Members Present: Utkarsh Jain,Hardik Katyal,Vineet Mallick
+Members Present: Utkarsh Jain,Hardik Katyal,Vineet Malik
 
 Agenda: Database Structure Finalized
 
@@ -48,7 +48,7 @@ Meeting 4 (Only Sub Team Leaders):
 
 Date:13 March
 
-Members Present: Utkarsh Jain,Piyush Gupta,Vineet Mallick,Hansraj Patel
+Members Present: Utkarsh Jain,Piyush Gupta,Vineet Malik,Hansraj Patel
 
 Agenda:Discussion on timetable generation, Data collection(field work), Data base recreated after Milestone 1 feedback
 
