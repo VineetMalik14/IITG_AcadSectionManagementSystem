@@ -1,0 +1,20 @@
+The following sub teams are made :
+
+Team 1:
+Member : Hansraj Patel, Sri Raam Reddy , Rohan Nigam , Ayush Makharia
+Leader: Hansraj Patel
+Task : Home Page Form , Student Form , Course Drop Form
+
+Team 2:
+Member : Hardik Katyal, Lucky Singh , Sunny Kumar ,Parvinder Singh
+Leader: Hardik Katyal
+Task : Admin Form , Dean/Hod Form , Course Enrollment Form
+
+Team 3:
+Member : Utkarsh Jain, Umang , Pranshu Srivas Rishi Pathak
+Leader: Utkarsh Jain
+Task : Professor Form and Merging
+
+Team 4:
+Member : Piyush Gupta, Vineet Mallick
+Task : Timetable Generation and other backend functions

@@ -1,0 +1,17 @@
+The architecture of the software was finalized as follows :
+
+* Homepage Form : Login , Notice Board , Search User (restricted) , Dynamic Academic Calendar , Important links and list of offline forms
+
+* Student Form : Student Profile with option to change password and apply for other edits, view personal notifications (e.g Extra class) , View Grade Card , Course Management ( view current courses ,Apply course drop , course adjustment for electives) , View Class Time Table , View Exam Time Table
+
+* Course Enrollment Form : Show List of Available Courses , Course Registration (including Minor and Electives) , Audit Courses
+
+* Course Drop Form : List of Currently enrolled courses, Apply for course drop , Send notification to HOD for approval
+
+* Admin Form : Search USer , Update User Details , Delete User, View/Post Notifications , Add New User
+
+* Dean/Hod Form : Send Data to admin about next semester courses and course instructions (Name of course, Credit Distribution, Name of Instructor) , Course Drop Approval , View / Post Notification
+
+* Professor Form : Professor Profile with option to change password and apply for other edits, Send/Update grades of student to office , Course adjustment approval , Post/View Notifications , Room booking for extra classes , View Current students , View TIme Table
+
+* Time Table generation for both class and exam to be handled in Backend
